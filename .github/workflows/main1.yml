@@ -16,7 +16,7 @@ jobs:
         name: Login to Docker Hub
         uses: docker/login-action@v2
         with:
-          username: parameshmr03@gmail.com
+          username: paramesh03
           password: Sunil@123
       -
         name: Set up Docker Buildx
