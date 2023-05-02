@@ -19,16 +19,16 @@ timezone: "Asia/Calcutta"
 xmplar_chatbot:
   endpoint: 'https://xmplarchatbot.crest-erp.com:5000'
   bot_name:  "Xmplar chatbot"
-  time: "15:40"
+  time: "15:50"
 
 creya_chatbot:
   endpoint: 'https://chatbot.crest-erp.com:5000'
   bot_name:  "Creya chatbot"
-  time: "15:40"
+  time: "15:50"
 
 whatsapp_chatbot:
   endpoint: 'https://xmplarchatbot.crest-erp.com:5001'
   bot_name:  "Whatsapp chatbot"
-  time: "15:40"
+  time: "15:50"
 
-remove_token_time: "15:40"
+remove_token_time: "15:50"
