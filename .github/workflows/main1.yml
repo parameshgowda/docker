@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: parameshmr03@gmail.com/clockbox:latest
+          tags: paramesh03/clockbox:latest
