@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+  chatbot-monitor:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: chatbot-monitor:1.0
+    command: python chatbot_monitor.py
